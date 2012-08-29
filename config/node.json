@@ -1,0 +1,8 @@
+{
+  "oh_my_zsh": {
+    "users": [
+      { "user_name": "pklein" }
+    ]
+  },
+  "run_list": [ "recipe[vim]", "recipe[oh-my-zsh]" ]
+}
