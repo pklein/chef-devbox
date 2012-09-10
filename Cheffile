@@ -8,6 +8,9 @@ cookbook 'vim'
 cookbook 'oh-my-zsh',
   :git => 'https://github.com/pklein/chef-oh-my-zsh'
 
+cookbook 'xmonad',
+  :git => 'https://github.com/pklein/chef-xmonad'
+
 # cookbook 'apache2', '>= 1.0.0'
 
 # cookbook 'rvm',

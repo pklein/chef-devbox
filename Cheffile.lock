@@ -20,7 +20,15 @@ GIT
       git (>= 0.0.0)
       zsh (>= 0.0.0)
 
+GIT
+  remote: https://github.com/pklein/chef-xmonad
+  ref: master
+  sha: f88f84b71b447d5af115a645d8d148768b7ee2b4
+  specs:
+    xmonad (0.0.1)
+
 DEPENDENCIES
   oh-my-zsh (>= 0)
   vim (>= 0)
+  xmonad (>= 0)
 

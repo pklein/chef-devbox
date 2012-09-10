@@ -4,5 +4,9 @@
       { "user_name": "pklein" }
     ]
   },
-  "run_list": [ "recipe[vim]", "recipe[oh-my-zsh]" ]
+  "run_list": [
+    "recipe[vim]",
+    "recipe[oh-my-zsh]",
+    "recipe[xmonad]"
+  ]
 }
