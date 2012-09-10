@@ -14,7 +14,7 @@ SITE
 GIT
   remote: https://github.com/pklein/chef-oh-my-zsh
   ref: master
-  sha: b91f76fd297c7ce484b1cd524d9052005ecb60ca
+  sha: 3d10d46e0f345c4349495fb481e8b1c6c69e25b7
   specs:
     oh-my-zsh (0.0.1)
       git (>= 0.0.0)
@@ -23,7 +23,7 @@ GIT
 GIT
   remote: https://github.com/pklein/chef-xmonad
   ref: master
-  sha: f88f84b71b447d5af115a645d8d148768b7ee2b4
+  sha: a4316b09cb5eef2c28cef304e9e82212f62868ea
   specs:
     xmonad (0.0.1)
 
